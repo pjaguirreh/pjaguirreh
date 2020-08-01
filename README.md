@@ -9,5 +9,5 @@
 - [Local Knowledge for Addressing Food Insecurity: The Use of a Goat Meat Drying Technique in a Rural Famine Context in Southern Africa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6826486/)
 
 ### Connect
-<a href="https://www.linkedin.com/in/pjaguirreh/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/zimmergren"><img src="https://img.shields.io/twitter/follow/PAguirreH?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/pjaguirreh/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/PAguirreH"><img src="https://img.shields.io/twitter/follow/PAguirreH?label=Twitter&style=social" alt="Twitter"></a>
 
