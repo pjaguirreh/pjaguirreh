@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo!
 - B.S Agriculture and Natural Resources ([PUC](https://www.uc.cl/)) and Master of Public Policy ([UChicago](https://harris.uchicago.edu/))
-- Currently working at Chile's Environmental Protection Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
+- Currently working at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
 - I also teach graduate courses at [UAI's School of Government](https://gobierno.uai.cl/diplomado/diplomado-big-data-politicas-publicas/) and [UDP's School of Business & Economics](https://mpp.udp.cl/)
 
 ### Some of my work/research
