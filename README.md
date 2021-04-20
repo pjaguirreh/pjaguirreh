@@ -1,7 +1,7 @@
 ### Hi, I'm Pablo!
 - B.S Agriculture and Natural Resources ([PUC](https://www.uc.cl/)) and Master of Public Policy ([UChicago](https://harris.uchicago.edu/))
 - Currently working at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
-- I also teach graduate courses at [UAI's School of Government](https://gobierno.uai.cl/diplomado/diplomado-big-data-politicas-publicas/) and [UDP's School of Business & Economics](https://mpp.udp.cl/)
+- I also teach graduate courses at [UAI's School of Government](https://gobierno.uai.cl/profesor-externo-uai/pablo-aguirre/) and [UDP's School of Business & Economics](https://postgradosfee.udp.cl/personas/pablo-aguirre/)
 
 ### Some of my work/research
 - [Environmental efficiency in the agricultural sector of Latin America and the Caribbean 1990–2015: Are greenhouse gas emissions reducing while agricultural production is increasing?](https://www.sciencedirect.com/science/article/abs/pii/S1470160X19301608)
