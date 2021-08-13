@@ -1,4 +1,5 @@
 ### Hi, I'm Pablo!
+- Incoming PhD student of Industrial Engineering ([PUC](https://www.uc.cl/))
 - B.S Agriculture and Natural Resources ([PUC](https://www.uc.cl/)) and Master of Public Policy ([UChicago](https://harris.uchicago.edu/))
 - Currently working at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
 - I also teach graduate courses at [UAI's School of Government](https://gobierno.uai.cl/profesor-externo-uai/pablo-aguirre/) and [UDP's School of Business & Economics](https://postgradosfee.udp.cl/personas/pablo-aguirre/)
