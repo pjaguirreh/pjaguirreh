@@ -1,5 +1,5 @@
 ### Hi, I'm Pablo!
-- Industrial Engineering PhD student ([PUC](https://www.uc.cl/))
+- Engineering and Technology PhD student ([PUC](https://www.uc.cl/))
 - Master of Public Policy ([UChicago](https://harris.uchicago.edu/))
 - B.S Agriculture and Natural Resources ([PUC](https://www.uc.cl/))
 - Working at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
