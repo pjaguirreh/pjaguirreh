@@ -1,7 +1,7 @@
 ### Hi, I'm Pablo!
 - Master of Public Policy Analysis ([UChicago](https://harris.uchicago.edu/))
 - B.S Natural Resources / Agricultural engineer ([PUC](https://www.uc.cl/))
-- Working at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
+- I've worked at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/)) and the [Food and Agriculture Organization (FAO) of the United Nations](https://www.fao.org/americas/en/)
 - I also teach graduate courses at [UAI's School of Government](https://gobierno.uai.cl/profesor-externo-uai/pablo-aguirre/) and [UDP's School of Business & Economics](https://postgradosfee.udp.cl/personas/pablo-aguirre/)
 
 ### Connect
