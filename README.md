@@ -1,8 +1,9 @@
 ### Hi, I'm Pablo!
 - PhD Candidate in Engineering and Technolgy (sp. Economics, Data Science, and Operations Research)
+- Graduate fellow at Stanford's RegLab
 - Master of Public Policy Analysis - specialized in Data Science & Economics ([UChicago](https://harris.uchicago.edu/))
 - B.S Natural Resources / Agricultural engineer ([PUC](https://www.uc.cl/))
-- Currently working as Head of Environmental Intelligence at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
+- Currently working as Head of Advanced Analytics at Chile's Environmental Regulatory Agency ([*Superintendencia del Medio Ambiente*](https://portal.sma.gob.cl/))
 - I've taught graduate courses at [UAI's School of Government](https://gobierno.uai.cl/profesor-externo-uai/pablo-aguirre/) and [UDP's School of Business & Economics](https://postgradosfee.udp.cl/personas/pablo-aguirre/) as well as undergraduate courses at [PUC's School of Agricultural and Forestry Engineering](https://agronomia.uc.cl/)
 
 ### Connect
